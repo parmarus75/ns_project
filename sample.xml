@@ -1,0 +1,32 @@
+<data>
+    <book>
+        <id>001</id>
+        <author>
+            <first_name>John</first_name>
+            <last_name>Doe</last_name>
+        </author>
+        <title>Spark in Action</title>
+        <genre>Technical</genre>
+        <price>39.99</price>
+        <publish_date>2023-01-15</publish_date>
+        <description>
+            <summary>An in-depth guide to Apache Spark.</summary>
+            <details>This book covers various aspects of Spark and its applications.</details>
+        </description>
+    </book>
+    <book>
+        <id>002</id>
+        <author>
+            <first_name>Jane</first_name>
+            <last_name>Smith</last_name>
+        </author>
+        <title>Data Science Essentials</title>
+        <genre>Technical</genre>
+        <price>49.99</price>
+        <publish_date>2023-02-20</publish_date>
+        <description>
+            <summary>Essential concepts and techniques in data science.</summary>
+            <details>This book provides hands-on examples and case studies.</details>
+        </description>
+    </book>
+</data>
